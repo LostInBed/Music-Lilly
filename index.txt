@@ -2,4 +2,8 @@
 "Wham - Last Christmas",
 "All I Want for Christmas Is You",
 "Feliz Navidad",
+"Alexia Evellyn - Savage Daughters",
+"Ashe - Moral Of The Story",
+"Natalie Jane - fallin",
+"Natalie Jane - seeing you",
 }
